@@ -1,0 +1,15 @@
+C:\Users\stbn_\source\repos\pruebasLINQ\bin\Debug\net6.0\pruebasLINQ.exe
+C:\Users\stbn_\source\repos\pruebasLINQ\bin\Debug\net6.0\pruebasLINQ.deps.json
+C:\Users\stbn_\source\repos\pruebasLINQ\bin\Debug\net6.0\pruebasLINQ.runtimeconfig.json
+C:\Users\stbn_\source\repos\pruebasLINQ\bin\Debug\net6.0\pruebasLINQ.dll
+C:\Users\stbn_\source\repos\pruebasLINQ\bin\Debug\net6.0\pruebasLINQ.pdb
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.csproj.AssemblyReference.cache
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.AssemblyInfoInputs.cache
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.AssemblyInfo.cs
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.csproj.CoreCompileInputs.cache
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.dll
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\refint\pruebasLINQ.dll
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.pdb
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\pruebasLINQ.genruntimeconfig.cache
+C:\Users\stbn_\source\repos\pruebasLINQ\obj\Debug\net6.0\ref\pruebasLINQ.dll
