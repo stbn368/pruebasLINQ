@@ -45,7 +45,7 @@ namespace pruebasLINQ
 
         public static void Ejercicio2()
         {
-            var numerosMayores = DB.lista().Where(n => n > 10);
+            var numerosMayores = DB.listaNumerosRandom().Where(n => n > 10);
 
             Console.WriteLine("En la lista:");
             foreach(var n in numerosMayores)
@@ -83,7 +83,7 @@ namespace pruebasLINQ
 
         public static void Ejercicio5()
         {
-            var lista = DB.lista().OrderByDescending(n => n);
+            var lista = DB.listaNumerosRandom().OrderByDescending(n => n);
 
             Console.WriteLine("Lista:");
             foreach (var v in lista)

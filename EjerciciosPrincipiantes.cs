@@ -35,7 +35,7 @@ namespace pruebasLINQ
         public static void Ejercicio1()
         {
             //consulta LINQ para números pares
-            var enterosPares = DB.lista().Where(p => p%2 == 0);
+            var enterosPares = DB.listaNumerosRandom().Where(p => p%2 == 0);
 
             Console.WriteLine("Números pares:");
             foreach (int i in enterosPares)
@@ -47,7 +47,7 @@ namespace pruebasLINQ
         public static void Ejercicio2()
         {
             //lista que almacena números cuadrados con LINQ
-            var enterosCuadrado = DB.lista().Select(num => num * num).ToList();
+            var enterosCuadrado = DB.listaNumerosRandom().Select(num => num * num).ToList();
             Console.WriteLine("Números cuadrados:");
             foreach (int i in enterosCuadrado)
             {
@@ -57,7 +57,7 @@ namespace pruebasLINQ
 
         public static void Ejercicio1y2()
         {
-            var listaEjercicio = DB.lista();
+            var listaEjercicio = DB.listaNumerosRandom();
 
             //lista que almacena números pares elevados al cuadrado con LINQ
             var enterosParesCuadrados = listaEjercicio.Where(p => p % 2 == 0)
@@ -87,7 +87,7 @@ namespace pruebasLINQ
         
         public static void Ejercicio4()
         {
-            var listaOrdenada = DB.lista().OrderBy(e => e);
+            var listaOrdenada = DB.listaNumerosRandom().OrderBy(e => e);
             foreach (var e in listaOrdenada)
             {
                 Console.WriteLine(e);
@@ -96,7 +96,7 @@ namespace pruebasLINQ
 
         public static void Ejercicio5()
         {
-            var elementos = DB.lista().Take(3);
+            var elementos = DB.listaNumerosRandom().Take(3);
             foreach (var e in elementos)
             {
                 Console.WriteLine(e);

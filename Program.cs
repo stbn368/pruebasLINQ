@@ -13,15 +13,15 @@
 //EjerciciosIntermedios.Ejercicio4();
 //EjerciciosIntermedios.Ejercicio5();
 
-EjerciciosAvanzados.Ejercicio1();
+//EjerciciosAvanzados.Ejercicio1();
 //EjerciciosAvanzados.Ejercicio2();
 //EjerciciosAvanzados.Ejercicio3();
 //EjerciciosAvanzados.Ejercicio4();
 //EjerciciosAvanzados.Ejercicio5();
+EjerciciosAvanzados.Ejercicio6();
 
-
-Console.WriteLine("************************************************************************************************");
-
+//Ejercicios planteados durante el curso de LinkedIn
+/* Comentados entre líneas 23 y 97
 
 //instanciamos un objeto DB para ponder acceder a las listas de datos
 DB db = new DB();
@@ -94,6 +94,8 @@ foreach (var f in filtroSub)
         f.Nombre, f.Apellido);
     Console.WriteLine(fila);
 }
+
+*/
 
 /* LINQ se ejecuta de forma diferida por lo que la consulta no se ejecuta
  * hasta que se utiliza, en el ejemplo hasta llegar el foreach.
